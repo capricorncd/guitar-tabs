@@ -1,0 +1,23 @@
+{
+  "name": "半壶纱",
+  "alias": {
+    "name": "BanHuSha",
+    "type": "PINYIN"
+  },
+  "language": "Chinese",
+  "singer": {
+    "name": "刘珂矣",
+    "alias": {
+      "name": "LiuKeYi",
+      "type": "PINYIN"
+    }
+  },
+  "lyrics": {
+    "name": "刘珂矣,百慕三石",
+    "alias": {"name": "LiuKeYi,BaiMuSanShi", "type": "PINYIN"}
+  },
+  "music":{
+    "name": "刘珂矣,百慕三石",
+    "alias": {"name": "LiuKeYi,BaiMuSanShi", "type": "PINYIN"}
+  }
+}

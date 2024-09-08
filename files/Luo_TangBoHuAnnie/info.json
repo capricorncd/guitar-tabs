@@ -1,0 +1,29 @@
+{
+  "name": "落",
+  "alias": {
+    "name": "Luo",
+    "type": "PINYIN"
+  },
+  "language": "Chinese",
+  "singer": {
+    "name": "唐伯虎Annie",
+    "alias": {
+      "name": "TangBoHu Annie",
+      "type": "PINYIN,ENGLISH"
+    }
+  },
+  "lyrics": {
+    "name": "潇然",
+    "alias": {"name": "XiaoRan", "type": "PINYIN"}
+  },
+  "music":{
+    "name": "潇然",
+    "alias": {"name": "XiaoRan", "type": "PINYIN"}
+  },
+  "files": [
+    {
+      "name": "luo_1.png",
+      "type": "IMAGE"
+    }
+  ]
+}
