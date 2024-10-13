@@ -1,3 +1,3 @@
-# sheet-music
+# guitar-tabs
 
-Sheet music, mainly guitar tabs or guitar chord tabs.
+Mainly guitar tabs with simplified notation, or guitar chord tabs.
